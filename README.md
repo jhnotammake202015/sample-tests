@@ -1,1 +1,1 @@
-sample tests 2
+sample tests 1
